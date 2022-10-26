@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myCalculator</string>
+    <string name="item_standar">Standard</string>
+    <string name="item_scientific">Scientific</string>
+</resources>

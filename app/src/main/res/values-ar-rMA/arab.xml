@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"الة حاسبة"</string>
+    <string name="item_standar">حساب عملي</string>
+    <string name="item_scientific">حاسبة علمية</string>
+</resources>
